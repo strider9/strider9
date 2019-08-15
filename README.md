@@ -1,2 +1,2 @@
-# strider9.github.io
+# strider9
 Creative &amp; Web Design Personal Page
